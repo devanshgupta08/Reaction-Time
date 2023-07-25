@@ -1,0 +1,37 @@
+body
+{
+    font-family: cursive;
+}
+h1
+{
+    width: 60%;
+    margin: 13px auto;
+    /* border: 2px solid red; */
+    text-align: center; 
+}
+.area
+{
+    /* border :2px solid green; */
+    height: 570px;
+    width: 100%;
+    margin-top: 15px;
+}
+.square
+{   
+    border-radius:0px;
+}
+.circle
+{   
+    border-radius:500px;
+}
+.box
+{
+    position: relative;
+}
+.boxreal
+{
+    width: 130px;
+    height: 130px;
+    left:80px;
+    top:80px;
+}
